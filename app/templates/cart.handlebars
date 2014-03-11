@@ -1,0 +1,12 @@
+<h1>
+    My Cart
+    <small class='muted'>(subtotal: {{ subtotal }} cents)</small>
+</h1>
+
+<ul>
+{{# each items }}
+    <li>{{this.product.name}}</li>
+    <li>{{this.product.price}}</li>
+{{/each}}
+</ul>
+
