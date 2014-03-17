@@ -1,19 +1,18 @@
-<h1>Albums Directory</h1>
-
 <p>
      {{# link-to "cart" }}Cart
     {{/ link-to }}
 </p>
 <div class='row'>
     <div class='col-lg-8'>
-        <h4>All Albums</h4>
+        <h4>Deathcore, Black Metal, Industrial Metal Albums</h4>
         <ul class='list-unstyled'>
       {{# each }}
-            <li>
+            <li><br>
           {{# link-to "product" this }}
                 <img {{ bind-attr src=avatar }} height="50" width="50">
             {{ name }}
           {{/ link-to }}
+          ${{ toDollars price }}
             </li>
       {{/ each }}
         </ul>

@@ -1,6 +1,6 @@
 <h1>
   {{ name }}
-    <small class='muted'>({{ price }} cents)</small>
+    <small class='muted'>(${{ toDollars price }})</small>
 </h1>
 
 <div class='row'>
@@ -8,7 +8,7 @@
         <img {{ bind-attr src=image }} class='thumbnail col-lg-12' />
     </div>
     <div class='col-lg-4'>
-    Add to cart<br>
+    <a href="#addToCart" {{ action "addToCart" this }} class="btn">Add To Cart</a><br>
 {{ description }}
     </div>
 </div>

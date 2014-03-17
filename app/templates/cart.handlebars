@@ -1,12 +1,31 @@
-<h1>
-    My Cart
-    <small class='muted'>(subtotal: {{ subtotal }} cents)</small>
-</h1>
+<h1>Shopping Cart</h1>
+<div class="row">
+  <div class="col-md-4">Album</div>
+  <div class="col-md-4">Price</div>
+  <div class="col-md-4">Quantity</div>
+</div>
 
-<ul>
 {{# each items }}
-    <li>{{this.product.name}}</li>
-    <li>{{this.product.price}}</li>
-{{/each}}
-</ul>
+  <div class="row">
+      <div class="col-md-4">{{# link-to 'product' this.product }}
+        <img {{ bind-attr src=this.product.image }} height="50" width="50">
+        {{ product.name }}
+        {{/ link-to }}
+      </div>
+      <div class="col-md-4">
+          {{ toDollars subtotal }}
+      </div>
+      <div class="col-md-4">
+        {{ input type="text" value=qty }}
+        <div class="btn-group btn-group-xs">
+            <a href="#" class="btn btn-success" {{action "more" this }}>+</a>
+            <a href="#" class="btn btn-danger" {{action "less" this }}>-</a>
+            <a href="#" class="btn btn-default btn-xs" {{ action "removeFromCart" this }}>Remove</a>
+        </div>
+      </div>
+  </div>
 
+{{/each}}
+<br><br>
+<strong>Subtotal:</strong> ${{ toDollars total }}<br><br>
+<p>{{# link-to 'products' }}Continue Shopping{{/link-to}}</p>
