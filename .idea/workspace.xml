@@ -4,20 +4,45 @@
     <list default="true" id="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" name="Default" comment="" />
     <ignored path="digistore.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/product.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394951330496" ignored="false" />
-    <file path="/index.html" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394946374813" ignored="false" />
+    <file path="/product.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395161277598" ignored="false" />
+    <file path="/index.html" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395160492342" ignored="false" />
     <file path="/home.handlebars" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394485592342" ignored="false" />
     <file path="/products.handlebars" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394950989811" ignored="false" />
     <file path="/products.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394648396115" ignored="false" />
-    <file path="/a.dummy" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394488255526" ignored="false" />
+    <file path="/a.dummy" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395076591803" ignored="false" />
     <file path="/cart.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394941036623" ignored="false" />
-    <file path="/router.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394940541048" ignored="false" />
+    <file path="/router.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395079488417" ignored="false" />
     <file path="/product.handlebars" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394946472950" ignored="false" />
     <file path="/item.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394941635445" ignored="false" />
     <file path="/items.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394559640729" ignored="false" />
     <file path="/carts.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394559659229" ignored="false" />
-    <file path="/cart.handlebars" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394946884544" ignored="false" />
+    <file path="/cart.handlebars" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395076680561" ignored="false" />
     <file path="/order.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1394941265871" ignored="false" />
+    <file path="/isUniqueProd.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395077055335" ignored="false" />
+    <file path="/checkout.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395079245412" ignored="false" />
+    <file path="/admin.js" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395079593366" ignored="false" />
+    <file path="/admin.handlebars" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395165380063" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/config/database.yml" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395166792378" ignored="false" />
+    <file path="/database.yml" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395166792378" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/app/models/products.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395167656009" ignored="false" />
+    <file path="/products.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395167302025" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/app/views/layouts/index.json.builder" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395167693738" ignored="false" />
+    <file path="/index.json.builder" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395167686578" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/app/controllers/products_controller.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395168407699" ignored="false" />
+    <file path="/products_controller.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395167774306" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/config/routes.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395169654780" ignored="false" />
+    <file path="/routes.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395169515159" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/app/models/product.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395169330648" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/db/migrate/20140318190241_change_products_to_product.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395169406674" ignored="false" />
+    <file path="/20140318190241_change_products_to_product.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395169406024" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/db/schema.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395171339266" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/app/views/products/index.json.jbuilder" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395170503456" ignored="false" />
+    <file path="/index.json.jbuilder" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395170503456" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/db/migrate/20140318193416_change_product_to_products.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395171332584" ignored="false" />
+    <file path="/20140318193416_change_product_to_products.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395171296618" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/Gemfile" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395171549878" ignored="false" />
+    <file path="/Gemfile" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395171549878" ignored="false" />
+    <file path="$PROJECT_DIR$/../storeServer/config/application.rb" changelist="bfbb3914-8cf6-4fda-86d0-21463b61f3a2" time="1395171705044" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +106,7 @@
       <file leaf-file-name="cart.handlebars" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/cart.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="46" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0">
+            <state line="30" column="0" selection-start="943" selection-end="943" vertical-scroll-proportion="-18.75">
               <folding />
             </state>
           </provider>
@@ -90,7 +115,7 @@
       <file leaf-file-name="product.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/scripts/models/product.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="95" selection-start="680" selection-end="680" vertical-scroll-proportion="0.19961612">
+            <state line="2" column="50" selection-start="119" selection-end="119" vertical-scroll-proportion="0.05514706">
               <folding />
             </state>
           </provider>
@@ -99,16 +124,16 @@
       <file leaf-file-name="cart.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/models/cart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="products.handlebars" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/products.handlebars">
+      <file leaf-file-name="admin.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/routes/admin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="10" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0">
+            <state line="10" column="3" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,16 +142,25 @@
       <file leaf-file-name="item.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/models/item.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="55" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+            <state line="9" column="0" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cart.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/routes/cart.js">
+      <file leaf-file-name="order.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/models/order.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="19" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
+            <state line="8" column="2" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products.handlebars" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/products.handlebars">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="3" selection-start="57" selection-end="57" vertical-scroll-proportion="-1.875">
               <folding />
             </state>
           </provider>
@@ -135,29 +169,17 @@
       <file leaf-file-name="product.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/routes/product.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="3" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0">
+            <state line="6" column="36" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toDollars.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/scripts/helpers/toDollars.js">
+      <file leaf-file-name="admin.handlebars" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/admin.handlebars">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="3" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+            <state line="20" column="0" selection-start="571" selection-end="571" vertical-scroll-proportion="-12.5">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="51" selection-start="3820" selection-end="3820" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1394946387000" expanded="true" signature="1046:1207" placeholder="..." />
-                <marker date="1394946387000" expanded="true" signature="1139:1175" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -172,28 +194,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/scripts/controllers/cart.js" />
-        <option value="$PROJECT_DIR$/app/scripts/models/cart.js" />
-        <option value="$PROJECT_DIR$/app/scripts/models/order.js" />
-        <option value="$PROJECT_DIR$/app/scripts/router.js" />
-        <option value="$PROJECT_DIR$/app/scripts/routes/checkout.js" />
-        <option value="$PROJECT_DIR$/app/scripts/routes/items.js" />
-        <option value="$PROJECT_DIR$/app/scripts/models/item.js" />
-        <option value="$PROJECT_DIR$/app/scripts/routes/products.js" />
         <option value="$PROJECT_DIR$/app/scripts/routes/cart.js" />
         <option value="$PROJECT_DIR$/app/scripts/helpers/toDollars.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/templates/product.handlebars" />
-        <option value="$PROJECT_DIR$/app/templates/cart.handlebars" />
-        <option value="$PROJECT_DIR$/app/scripts/routes/product.js" />
         <option value="$PROJECT_DIR$/app/templates/products.handlebars" />
+        <option value="$PROJECT_DIR$/app/templates/cart.handlebars" />
+        <option value="$PROJECT_DIR$/app/scripts/helpers/isUniqueProd.js" />
+        <option value="$PROJECT_DIR$/app/scripts/models/order.js" />
+        <option value="$PROJECT_DIR$/app/scripts/routes/checkout.js" />
+        <option value="$PROJECT_DIR$/app/scripts/router.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/templates/admin1.handlebars" />
+        <option value="$PROJECT_DIR$/app/scripts/routes/product.js" />
+        <option value="$PROJECT_DIR$/app/scripts/routes/admin.js" />
+        <option value="$PROJECT_DIR$/app/templates/admin.handlebars" />
+        <option value="$PROJECT_DIR$/app/scripts/models/item.js" />
         <option value="$PROJECT_DIR$/app/scripts/models/product.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1184" />
+    <option name="x" value="4" />
+    <option name="y" value="193" />
+    <option name="width" value="1254" />
     <option name="height" value="705" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -509,14 +532,15 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1184" height="705" extended-state="0" />
+    <frame x="4" y="193" width="1254" height="705" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1498708" sideWeight="0.6703601" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1413485" sideWeight="0.6703601" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -525,7 +549,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -592,105 +615,117 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/scripts/helpers/toDollars.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="3" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
+        <state line="5" column="24" selection-start="204" selection-end="204" vertical-scroll-proportion="0.13464992">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/routes/checkout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="2" selection-end="134" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/routes/items.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="0.10806917" />
+        <state line="5" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="0.13464992">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/router.js">
+    <entry file="file://$PROJECT_DIR$/app/scripts/helpers/isUniqueProd.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="6" selection-start="178" selection-end="178" vertical-scroll-proportion="0.08645533" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/models/order.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="5" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/models/cart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
+        <state line="1" column="12" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/routes/cart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="19" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/models/item.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="55" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/cart.handlebars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="46" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/routes/products.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="120" selection-end="120" vertical-scroll-proportion="0.13412817" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/helpers/toDollars.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="3" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/products.handlebars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="10" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/product.handlebars">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="51" selection-start="287" selection-end="287" vertical-scroll-proportion="0.23183925" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/routes/product.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="3" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.0">
+        <state line="16" column="0" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="51" selection-start="3820" selection-end="3820" vertical-scroll-proportion="0.0">
+        <state line="65" column="0" selection-start="3425" selection-end="3425" vertical-scroll-proportion="-10.625">
           <folding>
-            <marker date="1394946387000" expanded="true" signature="1046:1207" placeholder="..." />
-            <marker date="1394946387000" expanded="true" signature="1139:1175" placeholder="..." />
+            <marker date="1395160500000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1395160500000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/cart.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="943" selection-end="943" vertical-scroll-proportion="-18.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/routes/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="3" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/admin.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="571" selection-end="571" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/helpers/toDollars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/models/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/models/order.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="2" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/models/item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/product.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/routes/product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="36" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/products.handlebars">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="3" selection-start="57" selection-end="57" vertical-scroll-proportion="-1.875">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/models/product.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="95" selection-start="680" selection-end="680" vertical-scroll-proportion="0.19961612">
+        <state line="2" column="50" selection-start="119" selection-end="119" vertical-scroll-proportion="0.05514706">
           <folding />
         </state>
       </provider>

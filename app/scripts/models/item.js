@@ -14,13 +14,13 @@ App.Item.FIXTURES = [
         cart: 1,
         product: 1,
         currPrice: 5000,
-        quantity: 1
+        qty: 1
     },
     {
         id: 2,
         cart: 1,
         product: 2,
         currPrice: 3000,
-        quantity: 2
+        qty: 2
     }
 ]
