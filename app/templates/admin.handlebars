@@ -1,0 +1,24 @@
+<h2>Manage Albums</h2>
+
+<div class='row'>
+    {{# link-to 'productNew' class="btn btn-success btn-lg" }}New Album{{/ link-to }}<br><br>
+    {{# each }}
+        {{# if this.name }}
+            <div class='col-md-4'>
+                <div class="btn-group btn-group-xs">
+                    <button {{ action 'deleteProduct' this }}>Destroy</button>
+                </div>
+                    {{# link-to 'productEdit' this }}Edit
+                    <img {{ bind-attr src=avatar }} width="50px" height="50px" class='thumbnail col-lg-16' >
+                        {{ name }}
+                    {{/link-to}}
+                <br>
+            </div>
+        {{/ if }}
+    {{/ each }}
+</div>
+<div class='col-lg-10'>
+    {{ outlet }}
+</div>
+
+<p>{{# link-to 'products' }}View Albums{{/link-to}}</p>
