@@ -6,6 +6,7 @@ App.CartRoute = Ember.Route.extend({
     actions: {
         more: function (item) {
             item.incrementProperty('qty');
+            item.save();
         },
 
         less: function (item) {

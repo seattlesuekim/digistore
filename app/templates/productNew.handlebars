@@ -4,8 +4,13 @@
 
 <p>Price (in cents):<br> {{ input value=price }}</p>
 
+<p>Image URL:<br> {{ textarea value=image rows=1 cols=50 }}</p>
+
+<p>Avatar URL:<br> {{ textarea value=avatar rows=1 cols=50 }}</p>
+
 <p>Description:<br> {{ textarea value=description rows=8 cols=100}}</p>
 
-<p>Image URL:<br> {{ textarea value=image rows=1 cols=50 }}</p>
+
+
 
 <button class="btn btn-info btn-sm" {{action "createProduct" this}}>Save</button>
